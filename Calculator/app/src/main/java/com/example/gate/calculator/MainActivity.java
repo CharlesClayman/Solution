@@ -228,6 +228,7 @@ public class MainActivity extends AppCompatActivity {
                       return;
                     }
                     else {
+
                         output1.setText("");
                         action = "-";
                         counter=0;
